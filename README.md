@@ -1,5 +1,5 @@
 # PoliceSurrenderActions
-PoliceSurrenderActions is a UK-based resource for FiveM by Albo1125 that provides commands to interact with police.
+PoliceSurrenderActions is a UK-based resource for FiveM by Albo1125 that provides commands to interact with police. It is available at [https://github.com/Albo1125/PoliceSurrenderActions](https://github.com/Albo1125/PoliceSurrenderActions)
 
 ## Installation & Usage
 1. Download the latest release.
